@@ -34,7 +34,7 @@ def getFermatMiss(a,b,c, n):
     # print(c)
     d = (math.pow(c, n) - math.pow(a, n) - math.pow(b, n))
     nr = (n*math.pow(c, n-3))
-    print(f"{math.pow(c, n)}-{math.pow(a, n)}-{math.pow(b, n)} = {d} c-{math.pow(c, n-3)}")
+    # print(f"{math.pow(c, n)}-{math.pow(a, n)}-{math.pow(b, n)} = {d} c-{math.pow(c, n-3)}")
     if d == 0:
         d = 1
     nm = round(nr/d, 1)
