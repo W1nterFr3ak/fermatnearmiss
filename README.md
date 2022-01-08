@@ -10,3 +10,9 @@ $ cd fermatnearmiss
 ```
 ## Usage
 ![image](https://user-images.githubusercontent.com/55146805/148635319-a56bf30e-5e05-4a22-8b07-c8072c08bf9d.png)
+
+### Fermat output
+![image](https://user-images.githubusercontent.com/55146805/148635409-2787832f-def3-436a-9ea4-6cd5482f9320.png)
+
+### Riemann-Zeta output
+![image](https://user-images.githubusercontent.com/55146805/148635462-6d33e46f-1e2f-46d4-99ec-da37889ccf32.png)
